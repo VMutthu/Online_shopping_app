@@ -15,7 +15,7 @@ class ProductDetails extends StatelessWidget {
             print("search operation not ready now");
           }),
           new IconButton(icon: Icon(Icons.shopping_cart, color: Colors.white,), onPressed: (){
-            print("cart operation not ready now");
+            print("cart operation not ready now ");
           })
         ],
       ),
