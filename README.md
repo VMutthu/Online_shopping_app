@@ -1,6 +1,6 @@
 #  Online_shopping_app
 
-A new Flutter project.
+This Online shopping app  using flutter technology to learn the basic and online data fetching .the online data using the PHP server and online datadae.
 
 ## Getting Started
 
